@@ -1646,9 +1646,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@minimouli/framework@npm:^2.0.1":
-  version: 2.0.1
-  resolution: "@minimouli/framework@npm:2.0.1"
+"@minimouli/framework@npm:^2.0.2":
+  version: 2.0.2
+  resolution: "@minimouli/framework@npm:2.0.2"
   dependencies:
     "@minimouli/fs": ^2.0.0
     "@minimouli/ipc": ^2.0.0
@@ -1656,7 +1656,7 @@ __metadata:
     "@minimouli/process": ^2.0.1
     "@minimouli/types": ^2.0.0
     core-js: ^3.25.0
-  checksum: f345386f22c59da531dff337b108301b2951109243073d348ee1599431b554aaceec17ddddd4e52b23b699829654998d7db66cf1f34db321a143e0c8ee0600e9
+  checksum: f6811bbeb96a39ed58856caedbf9ece8d95af764fed7be59c5f9aa6509131a2202762efd8179bc188f0bef6890b99cf1ccccca53258e133cc805829de099beb3
   languageName: node
   linkType: hard
 
@@ -5481,7 +5481,8 @@ __metadata:
     "@babel/preset-typescript": ^7.18.6
     "@commitlint/cli": ^17.4.0
     "@commitlint/config-conventional": ^17.4.0
-    "@minimouli/framework": ^2.0.1
+    "@minimouli/framework": ^2.0.2
+    "@minimouli/types": ^2.0.0
     "@types/node": ^18.11.18
     "@typescript-eslint/eslint-plugin": ^5.48.0
     "@typescript-eslint/parser": ^5.48.0
